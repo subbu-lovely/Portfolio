@@ -20,7 +20,12 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to subbu. Thanks!
+## TL;DR
+
+You can fork this repo to modify and make changes of your own.  
+Please give me proper credit by linking back to [Subbu](https://github.com/subbu-lovely).  
+Thanks!
+
 
 ## Built With
 
